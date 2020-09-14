@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# WARNING: I'm not done with this file yet. Give me some time to figure this out.
+exit 0;
+
 printf "Repo link?:.\n";
 read repo;
 
